@@ -7,7 +7,7 @@ X1, Y1 is centre of forces position.
 
 Sensor model: Cortex AMTI 
 FZ1 and FZ2 are pretty close to what we want.  (mm from origin, corner of force plate 1 that 's closest to Justin's desk, right pinky toe)
-1 is the right foot (for the test) 
-x
+for static and weight shift, plate 1 is the right foot (for the test), 2 is left foot
+
 
 2400 refresh rate 
